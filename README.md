@@ -6,4 +6,4 @@
 
 i will deposit software that can resolve discrete logarithm on ecdsa in ultra polynomial time, before quantum. 
 The attack will not cover the hash function, only pubkey.
-The software use Fusion curve, with lift point and division. develloped in C/C++.
+The software use Fusion curve, with Lift point and Division. Develloped in C/C++ with gmp library.
